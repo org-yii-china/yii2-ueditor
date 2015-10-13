@@ -92,7 +92,6 @@ class UeditorAction extends Action
                 $config = array(
                     "pathFormat" => $this->config['scrawlPathFormat'],
                     "maxSize" => $this->config['scrawlMaxSize'],
-                    "allowFiles" => $this->config['scrawlAllowFiles'],
                     "oriName" => "scrawl.png"
                 );
                 $fieldName = $this->config['scrawlFieldName'];
