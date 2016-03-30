@@ -20,7 +20,7 @@ class UeditorAsset extends AssetBundle
     
     public $js = [
         'ueditor.config.js',
-        'ueditor.all.js',
+        'ueditor.all.min.js',
     ];
     
     public $depends = [
