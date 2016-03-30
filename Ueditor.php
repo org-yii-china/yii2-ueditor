@@ -29,7 +29,7 @@ class Ueditor extends InputWidget
         $this->id = $this->hasModel() ? Html::getInputId($this->model, $this->attribute) : $this->id;
         
         $this->_init = [
-            'serverUrl' => Url::to(['upload']),
+            'serverUrl' => Url::to(['ueditor']),
             'lang' => (strtolower(\Yii::$app->language) == 'en-us') ? 'en' : 'zh-cn',
         ];
         $this->options = ArrayHelper::merge($this->_init, $this->options);
