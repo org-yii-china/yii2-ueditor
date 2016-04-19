@@ -2,7 +2,7 @@
     "name": "yii-china.com/yii2-ueditor",
     "description": "The ueditor extension for the Yii framework",
     "keywords": ["yii2", "ueditor", "yii-china"],
-    "homepage": "https://github.com/org-yii-china/yii2-ueditor.git",
+    "homepage": "https://github.com/org-yii-china/yii2-ueditor",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Monolog": "src"
+            "Ueditor": "src"
         }
     }
 }
