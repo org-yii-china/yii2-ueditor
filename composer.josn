@@ -1,5 +1,5 @@
 {
-    "name":"yii-china/yii2-ueditor",
+    "name": "Hyii2/yii2-ueditor",
     "description": "The ueditor extension for the Yii framework",
     "keywords": ["yii2", "ueditor", "yii-china"],
     "homepage": "https://github.com/org-yii-china/yii2-ueditor.git",
@@ -11,4 +11,12 @@
             "email": "xianan_huang@163.com"
         }
     ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
 }
