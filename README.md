@@ -1,4 +1,4 @@
-Yii2.0 扩展-百度编辑器（Ueditor）
+Yii2.0.7 扩展-百度编辑器（Ueditor）
 
 描述：
 
