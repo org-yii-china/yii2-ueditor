@@ -18,5 +18,10 @@
         "psr-0": {
             "Ueditor": "src"
         }
-    }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v1.0.0"
+        }
+    },
 }
